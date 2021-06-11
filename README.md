@@ -1,2 +1,4 @@
 # git-github
-leaning purpose
+learing purpose
+git
+
